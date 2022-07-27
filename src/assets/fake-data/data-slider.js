@@ -1,6 +1,6 @@
 import bgImg1 from '../images/background/bg-1.jpg';
 import bgImg2 from '../images/background/bg-3.jpg';
-import img1 from '../images/common/itemslider.png';
+// import img1 from '../images/common/itemslider.png';
 
 const dataSlider = [
     {
@@ -8,7 +8,7 @@ const dataSlider = [
         title: 'Handshake Bets',
         desc : 'Revolutionizing the way YOU challenge your friends.',
         bgImg: bgImg1,
-        img : img1
+        
     },
     {
         id: 2,

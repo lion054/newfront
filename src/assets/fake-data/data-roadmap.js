@@ -1,19 +1,16 @@
 const dataRoadmap = [
     {
         id: 1,
-        time: 'Q2 2022',
+        time: 'Q1 2022',
         list: [
             {
-                text: 'Aenean tempor'
+                text: 'Develop Game Theory'
             },
             {
-                text: 'Fusce arcu maecenas'
+                text: 'Hire Blockchain Developers'
             },
             {
-                text: 'Malesuada felis sem elementum'
-            },
-            {
-                text: 'Risus eu metus'
+                text: 'Raise Money'
             },
         ],
         positon: 'left',
@@ -21,19 +18,28 @@ const dataRoadmap = [
     },
     {
         id: 2,
-        time: 'Q1 2022',
+        time: 'Q2 2022',
         list: [
             {
-                text: 'Release website and logo'
+                text: 'Finish UIUX designs'
             },
             {
-                text: 'Grow community'
+                text: 'Build Design in React'
             },
             {
-                text: 'Launch the project'
+                text: 'Improve bugs'
             },
             {
-                text: 'Social media setup'
+                text: 'Finalize internal IOS '
+            },
+            {
+                text: 'Begin iOS Internal Testing '
+            },
+            {
+                text: 'Launch Chicago Office (Tyko & James’s) Apartment'
+            },
+            {
+                text: 'Launch the Handshake Bets brand on all Socials '
             },
         ],
         positon: 'right',
@@ -41,155 +47,63 @@ const dataRoadmap = [
     },
     {
         id: 3,
-        time: 'Q4 2022',
+        time: 'Q3 2022',
         list: [
             {
-                text: 'Aenean tempor'
+                text: 'Launch the Betting Corner'
             },
             {
-                text: 'Fusce arcu maecenas'
+                text: 'Started the greatest betting/sports podcast '
             },
             {
-                text: 'Malesuada felis sem elementum'
+                text: 'Reach 60k Followers on Tik Tok'
             },
             {
-                text: 'Risus eu metus'
+                text: 'Create 4 videos with at least 1.1M views'
+            },
+            {
+                text: 'Reached 20M total views'
+            },
+            {
+                text: 'Grew 50K followers in less than 75 days.'
+            },
+            {
+                text: 'Finalize NFT Avatars for the Community and Game.'
+            },
+            {
+                text: '250K followers across all Socials'
+            },
+            {
+                text: 'Launch Email Newsletter'
             },
         ],
         positon: 'left'
     },
     {
         id: 4,
-        time: 'Q3 2022',
+        time: 'Q4 2022',
         list: [
             {
-                text: 'Aenean tempor'
-            },
-            {
-                text: 'Fusce arcu maecenas'
-            },
-            {
-                text: 'Malesuada felis sem elementum'
-            },
-            {
-                text: 'Risus eu metus'
+                text: 'Launch NFTs for Handshake Betrs to join the community.'
             },
         ],
         positon: 'right'
     },
     {
         id: 5,
-        time: 'Q2 2022',
+        time: '2023',
         list: [
             {
-                text: 'Aenean tempor'
+                text: 'Launch Handshake Bets Rec League'
             },
             {
-                text: 'Fusce arcu maecenas'
+                text: '3rd Annual Handshake Bets Golf Outing'
             },
             {
-                text: 'Malesuada felis sem elementum'
-            },
-            {
-                text: 'Risus eu metus'
+                text: 'Launch Handshake Bets the Game.'
             },
         ],
         positon: 'left'
-    },
-    {
-        id: 6,
-        time: 'Q1 2022',
-        list: [
-            {
-                text: 'Aenean tempor'
-            },
-            {
-                text: 'Fusce arcu maecenas'
-            },
-            {
-                text: 'Malesuada felis sem elementum'
-            },
-            {
-                text: 'Risus eu metus'
-            },
-        ],
-        positon: 'right'
-    },
-    {
-        id: 7,
-        time: 'Q4 2022',
-        list: [
-            {
-                text: 'Aenean tempor'
-            },
-            {
-                text: 'Fusce arcu maecenas'
-            },
-            {
-                text: 'Malesuada felis sem elementum'
-            },
-            {
-                text: 'Risus eu metus'
-            },
-        ],
-        positon: 'left'
-    },
-    {
-        id: 8,
-        time: 'Q3 2022',
-        list: [
-            {
-                text: 'Aenean tempor'
-            },
-            {
-                text: 'Fusce arcu maecenas'
-            },
-            {
-                text: 'Malesuada felis sem elementum'
-            },
-            {
-                text: 'Risus eu metus'
-            },
-        ],
-        positon: 'right'
-    },
-    {
-        id: 9,
-        time: 'Q2 2022',
-        list: [
-            {
-                text: 'Aenean tempor'
-            },
-            {
-                text: 'Fusce arcu maecenas'
-            },
-            {
-                text: 'Malesuada felis sem elementum'
-            },
-            {
-                text: 'Risus eu metus'
-            },
-        ],
-        positon: 'left'
-    },
-    {
-        id: 10,
-        time: 'Q1 2022',
-        list: [
-            {
-                text: 'Aenean tempor'
-            },
-            {
-                text: 'Fusce arcu maecenas'
-            },
-            {
-                text: 'Malesuada felis sem elementum'
-            },
-            {
-                text: 'Risus eu metus'
-            },
-        ],
-        positon: 'right'
     },
 ]
 
