@@ -82,13 +82,7 @@ function Footer(props) {
                         </div>
                         <ul className="list">
                             <li>
-                                <Link to="#">Privacy Policy</Link>
-                            </li>
-                            <li>
                                 <Link to="#">Cookies</Link>
-                            </li>
-                            <li>
-                                <Link to="#">Terms & Conditions</Link>
                             </li>
                         </ul>
                     </div>

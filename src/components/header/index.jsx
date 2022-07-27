@@ -65,7 +65,7 @@ const Header = () => {
                             }
                         </ul>
                     </nav>
-                    <Button title='Connect Wallet' path='/contact' />
+                    <Button title='Watch Video' path='/contact' />
 
                     <div className={`mobile-button ${menuActive ? 'active' : ''}`} onClick={handleMenuActive}><span></span></div>
                 </div>
