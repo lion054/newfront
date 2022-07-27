@@ -13,9 +13,7 @@ import dataRoadmap from '../assets/fake-data/data-roadmap';
 import Work from '../features/work';
 import dataWork from '../assets/fake-data/data-work';
 import Team from '../features/team/home-v3';
-import dataTeam from '../assets/fake-data/data-team';
-import FAQ from '../features/faq/home-v2';
-import dataFaq from '../assets/fake-data/data-faq';
+import dataTeam from '../assets/fake-data/data-team2';
 
 
 function HomeOne(props) {
@@ -34,7 +32,6 @@ function HomeOne(props) {
 
         <Team data={dataTeam} />
 
-        <FAQ data={dataFaq} />
         
         </div>
     );

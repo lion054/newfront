@@ -40,7 +40,7 @@ const menus = [
             {
                 id: 1,
                 sub: 'Join the Community',
-                links: '/nft-item'
+                links: '/'
             },
             {
                 id: 2,
@@ -55,7 +55,7 @@ const menus = [
             {
                 id: 4,
                 sub: 'HSB Swap',
-                links: '/coming-soon'
+                links: '/'
             },
         ],
     },
