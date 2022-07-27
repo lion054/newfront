@@ -12,38 +12,48 @@ const menus = [
             {
                 id: 1,
                 sub: 'Create Bet',
-                links: '/coming-soon'
+                links: '/'
             },
             {
                 id: 2,
-                sub: 'Public Bet',
-                links: '/coming-soon'
+                sub: 'Public Groups',
+                links: '/'
             },
             {
                 id: 3,
-                sub: 'HSB Groups',
-                links: '/coming-soon'
+                sub: 'Profile',
+                links: '/'
             },
             {
                 id: 4,
                 sub: 'Arcade',
-                links: '/community'
+                links: '/'
             },
 
         ]
     },
     {
         id: 3,
-        name: 'MarketPlace',
+        name: 'Community',
         links: '#',
         namesub: [
             {
                 id: 1,
-                sub: 'Mint NFT',
+                sub: 'Join the Community',
                 links: '/nft-item'
             },
             {
                 id: 2,
+                sub: 'Listen to The Betting Corner',
+                links: '/'
+            },
+            {
+                id: 3,
+                sub: 'Apparel',
+                links: '/'
+            },
+            {
+                id: 4,
                 sub: 'HSB Swap',
                 links: '/coming-soon'
             },
@@ -51,12 +61,12 @@ const menus = [
     },
     {
         id: 4,
-        name: 'About',
+        name: 'About Us',
         links: '#',
         namesub: [
             {
                 id: 1,
-                sub: 'team',
+                sub: 'Who we are',
                 links: '/about-v1'
             },
             {
@@ -70,11 +80,6 @@ const menus = [
                 links: '#'
             },
         ]
-    },
-    {
-        id: 6,
-        name: 'Profile',
-        links: '/account'
     },
     
 ]

@@ -13,7 +13,7 @@ function Work(props) {
 
     const [dataBlock] = useState({
         subtitle: 'How to',
-        title: 'Revolutionizing the way YOU challenge your friends.',
+        title: 'join the revolution of challenging your friends',
        // desc: 'Maecenas sit pretium, cras in. In quisque sem id eget. In vel gravida ut adipiscing integer felis.'
     })
     return (

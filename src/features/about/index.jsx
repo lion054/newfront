@@ -15,8 +15,8 @@ function About(props) {
     const [dataBlock] = useState(
         {
             subtitle : 'About us',
-            title: 'What is HandShakeBets?',
-            desc : 'The first ever Play-to-Earn, Peer-to-Peer betting game on the Polygon Blockchain. Create custom Handshake Bets on anything, challenge your friends, and submit results with photo/video proof. Climb the leaderboard, earn $SHKS, and upgrade your NFT avatar.  Lets make life more fun together.'
+            title: 'What is HandShake Bets?',
+            desc : 'We bet on ANYTHING, ANYWHERE, ANYTIME with ANYONE. We are the Social Gambling revolution, building a community of Handshake Bets who love to challenge each other outside of sports. Yes, we love sports, but life is full of natural odds and opportunities to bet on. Everything is betable and were here to show you. Follow us on all socials, tune into “the Betting Corner” podcast and join as we grow to become the biggest BET ON ANYTHING brand in the world. Life is more fun when you bet on anything and make a Handshake Bet.'
         }
     )
 
@@ -31,7 +31,7 @@ function About(props) {
                                 <h4 className="title">{dataBlock.title}</h4>
                             </div>
                             <p>{dataBlock.desc}</p>
-                                <Button title="Marketplace" path='/' />
+                                <Button title="Learn How" path='/' />
                         </div>
                     </div>
                     <div className="col-xl-7 col-md-12">

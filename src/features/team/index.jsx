@@ -20,7 +20,7 @@ function Team(props) {
         subtitle: 'Our team',
         title: 'Meet our TEAM',
         desc: 'Who we are',
-        text: 'Purus, laoreet dui augue ut euismod. Elementum ante sociis volutpat tellus enim, nisl consectetur mauris. Venenatis congue id quis eget viverra. Vestibulum, justo, euismod congue feugiat eget fames gravida posuere.'
+        text: 'We are a team committed to change the way people go out. We believe life is more enjoyable with friendly competition between each other. Handshake Bets is the brand and company that will guide the revolution to become a standard in the gambling world.'
     })
     return (
         <section className="tf-section tf-team">
