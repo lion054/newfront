@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import { Link } from 'react-router-dom';
 import ModalVideo from 'react-modal-video';
 import 'react-modal-video/scss/modal-video.scss' ;
-// import { Modal } from "react-bootstrap";
+import { Modal } from "react-bootstrap";
 import './styles.scss'
 
 SliderItem.propTypes = {
@@ -15,7 +15,7 @@ function SliderItem(props) {
 
     const [isOpen, setOpen] = useState(false)
 
-    // const [modalShow, setModalShow] = useState(false);
+     const [modalShow, setModalShow] = useState(false);
 
     return (
         <div className={`box-slider ${item.classAction}`}>
@@ -48,7 +48,7 @@ function SliderItem(props) {
 
             <ModalVideo channel='youtube' autoplay isOpen={isOpen} videoId="i7EMACWuErA" onClose={() => setOpen(false)} />
 
-            {/* <Modal
+             <Modal
                 show={modalShow}
                 onHide={setModalShow}
             >
@@ -100,9 +100,9 @@ function SliderItem(props) {
                                     </div>
                                 </div>  
                             </div>
-            </Modal> */}
+            </Modal> 
 
-            {/* <div className="modal fade popup" id="popup_bid" tabindex="-1" role="dialog" aria-hidden="true">
+            <div className="modal fade popup" id="popup_bid" tabindex="-1" role="dialog" aria-hidden="true">
             <div className="modal-dialog modal-dialog-centered" role="document">
                 <div className="modal-content">
                     <div className="header-popup">
@@ -115,7 +115,7 @@ function SliderItem(props) {
                     
                 </div>
             </div>
-        </div> */}
+        </div> 
         </div>
     );
 }
