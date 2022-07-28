@@ -12,22 +12,22 @@ const menus = [
             {
                 id: 1,
                 sub: 'Create Bet',
-                links: '/'
+                links: 'HSB'
             },
             {
                 id: 2,
                 sub: 'Public Groups',
-                links: '/'
+                links: 'HSB'
             },
             {
                 id: 3,
                 sub: 'Profile',
-                links: '/'
+                links: 'HSB'
             },
             {
                 id: 4,
                 sub: 'Arcade',
-                links: '/'
+                links: 'HSB'
             },
 
         ]
@@ -40,22 +40,22 @@ const menus = [
             {
                 id: 1,
                 sub: 'Join the Community',
-                links: '/'
+                links: 'HSB'
             },
             {
                 id: 2,
                 sub: 'Listen to The Betting Corner',
-                links: '/'
+                links: 'HSB'
             },
             {
                 id: 3,
                 sub: 'Apparel',
-                links: '/'
+                links: 'HSB'
             },
             {
                 id: 4,
                 sub: 'HSB Swap',
-                links: '/'
+                links: 'HSB'
             },
         ],
     },
