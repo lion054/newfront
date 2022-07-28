@@ -4,7 +4,6 @@ import { Navigation, Scrollbar, A11y   } from 'swiper';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import SliderItem from './slider-item';
 import 'swiper/scss';
-import 'swiper/scss/navigation';
 import 'swiper/scss/pagination';
 
 Slider.propTypes = {
@@ -19,7 +18,6 @@ function Slider(props) {
                 modules={[Navigation,  Scrollbar, A11y ]}
                     spaceBetween={0}
                     slidesPerView={1}
-                    navigation
                     scrollbar={{ draggable: true }}
                 >
                 {
